@@ -1,1 +1,18 @@
-{}
+{
+    "e-hort": {
+        "projectName": "e-hort",
+        "description": "idc",
+        "type": "community",
+        "author": "SE-DEVS",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/SE-DEVS/medical",
+        "githubUri": "https://github.com/SE-DEVS/medical",
+        "license": "apache-2.0",
+        "lastUpdated": "1735104232137",
+        "tags": [
+            "authentication"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
